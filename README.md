@@ -6,6 +6,10 @@
 
 I build full-stack applications, explore cybersecurity, and develop games.
 
+<br>
+
+> **"For me, giving up is way harder than trying."**
+
 </div>
 
 ---
