@@ -69,12 +69,3 @@ Worked with:
 Built 2D games with JavaScript while working with game loops, movement, collisions, animations, and browser rendering.
 
 **JavaScript · HTML · CSS**
-
----## GitHub Stats
-
-<div align="center">
-
-<img src="./profile/stats.svg" height="165">
-<img src="./profile/top-langs.svg" height="165">
-
-</div>
