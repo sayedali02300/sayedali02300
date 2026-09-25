@@ -71,7 +71,6 @@ Built 2D games with JavaScript while working with game loops, movement, collisio
 **JavaScript · HTML · CSS**
 
 ---
-
 ## GitHub Stats
 
 <div align="center">
@@ -79,15 +78,5 @@ Built 2D games with JavaScript while working with game loops, movement, collisio
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=sayedali02300&show_icons=true&hide_border=true&theme=transparent" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedali02300&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-<div align="center">
-
-### Building things to understand how they work.
-
-<img src="https://komarev.com/ghpvc/?username=sayedali02300&style=flat-square" />
 
 </div>
