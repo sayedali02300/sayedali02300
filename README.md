@@ -70,13 +70,11 @@ Built 2D games with JavaScript while working with game loops, movement, collisio
 
 **JavaScript · HTML · CSS**
 
----
-## GitHub Stats
+---## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sayedali02300&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedali02300&layout=compact&hide_border=true&theme=transparent" />
+<img src="./profile/stats.svg" height="165">
+<img src="./profile/top-langs.svg" height="165">
 
 </div>
