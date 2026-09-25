@@ -18,7 +18,7 @@ I build full-stack applications, explore cybersecurity, and develop games.
 
 I'm a **Full-Stack Developer** and **Cybersecurity student** with an interest in software engineering, backend systems, networking, and game development.
 
-I enjoy building projects that go beyond just the interface — working with APIs, databases, authentication, networking, real-time systems, and application architecture.
+I enjoy building projects that go beyond just the interface working with APIs, databases, authentication, networking, real-time systems, and application architecture.
 
 I've also built **2D games with JavaScript** and a **3D multiplayer FPS using Rust and Bevy**.
 
