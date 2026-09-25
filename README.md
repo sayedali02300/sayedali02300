@@ -1,24 +1,10 @@
-# Hi, I'm Sayed Ali
-
 <div align="center">
+
+# Sayed Ali
 
 ### Full-Stack Developer | Cybersecurity Student | Game Developer
 
-Building full-stack applications, experimenting with cybersecurity, and creating games with Rust, Go, JavaScript, and more.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=rust,go,js,java,html,css,react&perline=7" />
-
-<br><br>
-
-```text
-╭──────────────────────────────────────╮
-│                                      │
-│       CODE   BUILD   BREAK   LEARN   │
-│                                      │
-╰──────────────────────────────────────╯
-```
+I build full-stack applications, explore cybersecurity, and develop games.
 
 </div>
 
@@ -26,36 +12,11 @@ Building full-stack applications, experimenting with cybersecurity, and creating
 
 ## About Me
 
-```rust
-struct Developer {
-    name: &'static str,
-    role: &'static str,
-    interests: Vec<&'static str>,
-    currently_building: &'static str,
-}
+I'm a **Full-Stack Developer** and **Cybersecurity student** with an interest in software engineering, backend systems, networking, and game development.
 
-fn main() {
-    let me = Developer {
-        name: "Sayed Ali",
-        role: "Full-Stack Developer",
-        interests: vec![
-            "Software Engineering",
-            "Cybersecurity",
-            "Game Development",
-            "Computer Networking",
-        ],
-        currently_building: "3D games with Rust & Bevy",
-    };
+I enjoy building projects that go beyond just the interface — working with APIs, databases, authentication, networking, real-time systems, and application architecture.
 
-    println!("Always learning. Always building.");
-}
-```
-
-I'm a **Full-Stack Developer** and **Cybersecurity student** interested in building software from the frontend all the way down to backend systems and networking.
-
-I enjoy understanding how systems work behind the scenes, whether that's designing a web application, building APIs, working with networks, exploring security, or developing games.
-
-I've built **2D games with JavaScript** and a **3D multiplayer FPS using Rust and Bevy**.
+I've also built **2D games with JavaScript** and a **3D multiplayer FPS using Rust and Bevy**.
 
 ---
 
@@ -63,75 +24,51 @@ I've built **2D games with JavaScript** and a **3D multiplayer FPS using Rust an
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=rust,go,js,java,html,css,react,git,github,linux&perline=10" />
 
-<img src="https://skillicons.dev/icons?i=rust,go,js,java,html,css" />
+<br><br>
 
-### Frameworks & Technologies
-
-<img src="https://skillicons.dev/icons?i=react,git,github,linux,vscode" />
+`Rust` · `Go` · `JavaScript` · `Java` · `HTML` · `CSS` · `React`
 
 </div>
 
 ---
 
-## What I Build
+## Projects
 
-### Full-Stack Applications
+### 3D Multiplayer FPS
 
-I build applications across both the frontend and backend, working with user interfaces, APIs, databases, authentication, and real-time systems.
+A multiplayer FPS built with **Rust and Bevy**, combining game development with networking and client-server architecture.
 
-`Go` `JavaScript` `React` `HTML` `CSS` `SQL`
+- 3D player movement and camera systems
+- Shooting mechanics
+- Character animations
+- Client-server multiplayer
+- Maze environments
+- Minimap and HUD systems
 
-Some of the systems I've worked with include:
+**Rust · Bevy · Networking · 3D**
+
+### Full-Stack Web Applications
+
+Built full-stack applications involving both frontend and backend development.
+
+Worked with:
 
 - REST APIs
 - Authentication and sessions
 - SQL databases
 - Real-time communication
-- Client-server architecture
 - Social networking features
-- Backend services
+- Client-server architecture
 
-### 3D Multiplayer FPS
-
-Built a multiplayer first-person shooter using **Rust** and the **Bevy game engine**.
-
-`Rust` `Bevy` `3D` `Networking` `Game Development`
-
-Including systems for:
-
-- 3D environments
-- Player movement
-- Shooting mechanics
-- First-person camera
-- Character animations
-- Client-server multiplayer
-- Minimap
-- HUD and FPS monitoring
+**Go · JavaScript · React · HTML · CSS · SQL**
 
 ### 2D Games
 
-Built multiple 2D games with JavaScript while working with game loops, movement, collision systems, animations, and browser rendering.
+Built 2D games with JavaScript while working with game loops, movement, collisions, animations, and browser rendering.
 
-`JavaScript` `HTML` `CSS`
-
----
-
-## Currently Exploring
-
-```text
-┌────────────────────────────────────────────┐
-│                                            │
-│   Rust & Bevy                              │
-│   Cybersecurity                            │
-│   Computer Networking                      │
-│   Multiplayer Systems                      │
-│   Backend Engineering                      │
-│   Full-Stack Development                   │
-│                                            │
-└────────────────────────────────────────────┘
-```
+**JavaScript · HTML · CSS**
 
 ---
 
@@ -143,18 +80,14 @@ Built multiple 2D games with JavaScript while working with game loops, movement,
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedali02300&layout=compact&hide_border=true&theme=transparent" />
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=sayedali02300&theme=transparent&hide_border=true" />
-
 </div>
 
 ---
 
 <div align="center">
 
-### `while (alive) { learn(); build(); improve(); }`
+### Building things to understand how they work.
 
 <img src="https://komarev.com/ghpvc/?username=sayedali02300&style=flat-square" />
 
-</div>****
+</div>
