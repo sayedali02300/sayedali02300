@@ -8,7 +8,7 @@ I build full-stack applications, explore cybersecurity, and develop games.
 
 <br>
 
-> **"They done stole your dreams, you don't know who did it"**
+> **"For me giving up is way harder than trying"**
 
 </div>
 
